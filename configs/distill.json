@@ -1,0 +1,8 @@
+{
+  "history_length": 4,
+  "action_weight": 1.0,
+  "feature_weight": 0.25,
+  "uncertainty_weighting": true,
+  "learning_rate": 0.001,
+  "epochs": 20
+}

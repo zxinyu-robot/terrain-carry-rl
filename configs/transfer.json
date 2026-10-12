@@ -1,0 +1,6 @@
+{
+  "checkpoint": "checkpoints/upstream_policy.pt",
+  "copy_intersection": true,
+  "backbone_unfreeze_epoch": 5,
+  "notes": "Path is a placeholder; no third-party weights are distributed."
+}

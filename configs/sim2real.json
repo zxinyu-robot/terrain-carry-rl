@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "mass_scale": [0.8, 1.2],
+  "center_of_mass_offset_m": [-0.02, 0.02],
+  "friction": [0.4, 1.2],
+  "motor_strength": [0.85, 1.15],
+  "observation_noise_scale": [0.0, 0.03],
+  "observation_latency_steps": 1,
+  "action_latency_steps": 1,
+  "actuator_time_constant_s": 0.04
+}

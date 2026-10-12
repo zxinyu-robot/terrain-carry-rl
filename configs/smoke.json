@@ -1,0 +1,9 @@
+{
+  "seed": 7,
+  "samples": 64,
+  "batch_size": 16,
+  "epochs": 2,
+  "history_length": 4,
+  "learning_rate": 0.001,
+  "feature_dim": 32
+}
