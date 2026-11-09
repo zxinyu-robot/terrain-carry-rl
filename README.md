@@ -1,3 +1,5 @@
+> **本仓库已并入 [embodied-learning-baselines-](https://github.com/zxinyu-robot/embodied-learning-baselines-)（目录 `terrain_carry_rl/`），此处只读归档，后续维护在新仓库进行。**
+
 # TerrainCarry-RL
 
 面向 Unitree Go2 + AgileX Piper 的紧耦合 whole-body 强化学习研究脚手架：用一个策略同时
